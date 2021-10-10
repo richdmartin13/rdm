@@ -25,4 +25,4 @@ Need to update your resume? Our premium package gives you access to a content ma
 
 ## What does the future look like?
 
-We’re glad you asked! With your subscription, you’ll instantly get access to all new features available in your tier. And don’t worry - we’ll make sure to let you know when they arrive.
+We’re glad you asked! With your subscription, you’ll instantly get access to all new features available in your tier. And don’t worry - we’ll make sure to let you know when they arrive. For now, be sure to check out out at [oneresume.us](Https://oneresume.us).
