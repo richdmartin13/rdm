@@ -31,6 +31,11 @@ sections:
   create: all
   match: "**/*"
   new_doc_ext: yaml
+- type: directory
+  path: ''
+  label: Files
+  create: all
+  match: "**/*"
 upload_dir: static/images
 public_path: "/images"
 front_matter_path: ''
