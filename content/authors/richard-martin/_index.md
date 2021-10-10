@@ -3,7 +3,7 @@ title: Richard Martin
 bio: 'Digital Nomad and Web Developer
 
 '
-avatar: "/images/4a70ab37-e9cc-451c-96a2-2b2711762330.jpeg"
+avatar: "/images/da0570ad-1b5e-473b-ac55-ae65f70561d1.jpeg"
 social:
 - title: github
   url: https://github.com/richdmartin13
