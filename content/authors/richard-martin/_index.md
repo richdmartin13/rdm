@@ -1,8 +1,6 @@
 ---
-title: Richard Martin
-bio: 'Digital Nomad and Web Developer
-
-'
+title: 'Richard Martin'
+bio: 'Digital Nomad and Web Developer'
 avatar: "/images/da0570ad-1b5e-473b-ac55-ae65f70561d1.jpeg"
 social:
 - title: github
